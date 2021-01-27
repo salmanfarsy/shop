@@ -1,0 +1,14 @@
+*{
+	margin:0;
+}
+.con{
+  padding-top: 10vh;
+  min-height: 80vh;
+  width: 100%
+}
+ @media (min-width: 768px){
+ 	.conatiner{
+ 		min-height:50vh;
+ 		max-width: 100%
+ 	}
+ }
