@@ -6,4 +6,8 @@
     float:right;
   width: 50%;
 }
-.card{margin:0;}
+.card{margin:5px;}
+.containe{
+  margin-left: 1%;
+  margin-top: 05%;
+}
