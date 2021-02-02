@@ -4,10 +4,32 @@
 }
 .coverimage{
     float:right;
-  width: 50%;
+    height: 405px; 
+    width:500px;
 }
 .card{margin:5px;}
 .containe{
   margin-left: 1%;
   margin-top: 05%;
+}
+.navbar-brand{
+  font-size: 25px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+h1,.lead{
+  margin: 50px 50px;
+}
+.lead{
+  font-size: 30px;
+  font-weight: 350;
+}
+.card-img-top{
+  width: 300px;
+  height: 300px;
+}
+@media (max-width: 800px){
+  .coverimage{ width: 250px;
+    height: 250px;
+  }
 }
